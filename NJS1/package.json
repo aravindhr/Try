@@ -1,0 +1,9 @@
+{
+  "name": "njs1",
+  "version": "0.0.0",
+  "description": "NJS1",
+  "main": "server.js",
+  "author": {
+    "name": ""
+  }
+}
